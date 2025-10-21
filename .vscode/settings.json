@@ -24,5 +24,9 @@
         "**/.DS_Store": true,
         "**/*.pyc": true,
         "**/__pycache__": true
-    }    
+    },
+    "sonarlint.connectedMode.project": {
+        "connectionId": "jmbo1190",
+        "projectKey": "jmbo1190_wtecc-CICD_PracticeCode"
+    }
 }
